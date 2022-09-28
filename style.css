@@ -1,0 +1,28 @@
+h1 {
+    color: brown;
+}
+
+/** {
+    border: solid;
+}*/
+
+.Heading{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between
+}
+
+.games{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.description{
+    text-align: center;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
